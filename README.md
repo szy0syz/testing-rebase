@@ -1,5 +1,3 @@
 # testing-rebase
 
-m: 111
-m: 222
-m: 333
+> 测试 `git rebase`
